@@ -20,3 +20,20 @@ We load and clean the data using python and check the columns data types.
 And we check for null values in the data.
 If null values are present we clean by adding the missing data or dropping the rows.
 Changing the data types for better analysis of the data. For example this dataset has a column date_added with data type ‘object’ , so we have to change it to ‘datetime64[ns]’. 
+
+# Exploratory Data Analysis
+  # Distribution of Content by Type:
+  ![1Capture](https://github.com/user-attachments/assets/f787b336-b009-4289-8c1d-f6c3529a22ed)
+
+ # Most Common Genres on Netflix
+ ![2Capture](https://github.com/user-attachments/assets/fdc1f720-292b-42d1-b348-111947bc9dcb)
+ 
+ # Content Added Over Time
+ ![3Capture](https://github.com/user-attachments/assets/05810235-bc7c-4517-b533-e18501e4e53e)
+
+ # Top 10 Directors with the Most Titles
+ ![4Capture](https://github.com/user-attachments/assets/b0cc4d7a-5839-4a83-a5c2-dc5d6b390aa9)
+
+ # Word Cloud of Movie Titles
+ ![5Capture](https://github.com/user-attachments/assets/cb7f0797-c8d1-434e-af71-f365c101e03b)
+
