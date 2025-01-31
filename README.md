@@ -36,4 +36,17 @@ Changing the data types for better analysis of the data. For example this datase
 
  # Word Cloud of Movie Titles
  ![5Capture](https://github.com/user-attachments/assets/cb7f0797-c8d1-434e-af71-f365c101e03b)
+ 
+ # Summary:
+ ![6Capture](https://github.com/user-attachments/assets/16385bb1-93bf-475a-a908-405486fb8897)
+ 
+# Outputs & Insights:
+Finally, After Data Cleaning, Save the Cleaned dataset for Tableau Visualization.
+Netflix has significantly expanded its catalog since 2018, with a majority of content added in 2019 and later.
+The platform includes both classic and modern titles, but most content is from the 2010s and later.
+Content additions peak mid-year and towards the end of the year, possibly aligning with user demand cycles.
+Netflix actively adds recent releases, showing a commitment to keeping the catalog fresh.
+
+#Tableau Dashboard:
+![Netflix Data Analysis](https://github.com/user-attachments/assets/893c923a-d6dd-44b1-879b-0e7a64f91db1)
 
