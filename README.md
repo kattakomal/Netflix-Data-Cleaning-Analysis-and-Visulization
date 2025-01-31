@@ -11,14 +11,19 @@ Who are the most frequent directors producing content for Netflix?
 How does Netflix’s content distribution compare across different years?
 
 # Tools and Technologies:
-Programming Language: Python 
+Programming Language: Python
+
 Libraries: pandas, numpy, seaborn, matplotlib, WordCloud
+
 Visualization Tools: Tableau, Jupyter Notebook
 
 # Data Cleaning:
 We load and clean the data using python and check the columns data types.
+
 And we check for null values in the data.
+
 If null values are present we clean by adding the missing data or dropping the rows.
+
 Changing the data types for better analysis of the data. For example this dataset has a column date_added with data type ‘object’ , so we have to change it to ‘datetime64[ns]’. 
 
 # Exploratory Data Analysis
@@ -42,9 +47,13 @@ Changing the data types for better analysis of the data. For example this datase
  
 # Outputs & Insights:
 Finally, After Data Cleaning, Save the Cleaned dataset for Tableau Visualization.
+
 Netflix has significantly expanded its catalog since 2018, with a majority of content added in 2019 and later.
+
 The platform includes both classic and modern titles, but most content is from the 2010s and later.
+
 Content additions peak mid-year and towards the end of the year, possibly aligning with user demand cycles.
+
 Netflix actively adds recent releases, showing a commitment to keeping the catalog fresh.
 
 #Tableau Dashboard:
