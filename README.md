@@ -1,4 +1,4 @@
-# Netflix-Data-Cleaning-Analysis-and-Visulization
+# Netflix-Data-Cleaning-Analysis-and-Visualization
 
 # Introduction / Problem Statement:
 Netflix is a popular streaming service that offers a vast catalog of movies,TV shows,and original contents.The data consist of contents added to Netflix from 2008 to 2021. The Oldest content isasoldas1925and the newest as 2021.
